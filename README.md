@@ -1,5 +1,8 @@
 # Retail Analytics & Customer Behavior Pipeline
 
+## Interactive Tableau Dashboard
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tyara.mckenzie3323/viz/EcommerceDashboard_17864920034610/EcommerceSummary?publish=yes)
+
 ## Project Overview
 
 This project is an end-to-end retail analytics pipeline built using:
